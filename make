@@ -1,2 +1,2 @@
 all: main
-  cc main.c -o main
+  cc main.cpp -o main
